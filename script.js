@@ -121,7 +121,7 @@ async function displayalbums() {
     
 }
 async function main() {
-     await getsongs("songs2/diljit")
+     await getsongs("songs2/Diljit")
     playmusic(songs[0], true)
     console.log(songs)
 
